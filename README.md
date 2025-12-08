@@ -1,31 +1,40 @@
-## Welcome to TJ-overflow 👋
+# Hi, I'm Taejun Oh 👋
 
-I am currently learning computer science and artificial intelligence to integrate new knowledge and skills into my background in economics(Game Theory Ph.D) and business/finance consulting.
+**Computational Economist & Systems Architect in Training**
 
-I am eager to collaborate on machine learning applications in business consulting and economic analysis!!
+I am bridging the gap between **Economic Theory** (Game Theory, Mechanism Design) and **Artificial Intelligence**. My work focuses on building computational systems that solve complex problems in finance and economics, moving beyond traditional econometrics to apply modern engineering principles.
 
-**Contact me**: taejun.oh5@google.com
+- **Currently working on**: Foundational Computer Science (Distributed Systems, Parallel Programming)
+- **Currently studying**: Master of Computer Science at **UIUC**
+- **Interests**: Causal Inference, Algorithmic Game Theory, Multi-Agent Reinforcement Learning (MARL)
 
----------------------------------------------
+---
 
-"the overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies" - Abbé Faria, The Count of Monte Cristo
+### Tech Stack
+* **Languages**: Python, C++
+* **Tools**: VS Code, Git/GitHub, LaTeX
 
----------------------------------------------
-**Education**
+---
 
+### Education
+* **M.C.S. Candidate (Computer Science)**, University of Illinois Urbana-Champaign (2026 - Present)
 * **Ph.D. in Economics**, University of Michigan Ann-Arbor (2016)
+    * *Specialization: Game Theory & Mechanism Design*
+* **B.S. in Mathematics, B.A. in Economics**, Yonsei University (2008)
 
-* **B.A. in Economics, B.S. in Mathematics**, Yonsei University (2008)
+---
 
----------------------------------------------
-**Professional Experience**
+### Professional Experience
+* **Senior Research Manager**, Woori Financial Research Institute (2022 - Present)
+* **Co-CEO**, Blue Mountain Inc. (2020 - 2022)
+* **Research Fellow**, Samsung Global Research (2016 - 2020)
 
-* **Senior Research Manager**, Woori Financial Research Institutie (2022 - present)
+---
+**Contact**: taejun.oh5@google.com
 
-* **Co-CEO**, Blue Mountain Inc (2020-2022)
+---
 
-* **Research Fellow**, Samsung Global Research(2016 - 2020)
-
+"The overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies." — *Abbé Faria, The Count of Monte Cristo*
 
 
 
