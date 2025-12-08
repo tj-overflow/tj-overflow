@@ -1,11 +1,11 @@
-# Hi, I'm Taejun Oh 👋
+# Hi, I'm Taejun Oh
 
 **Computational Economist & Systems Architect in Training**
 
 I am bridging the gap between **Economic Theory** (Game Theory, Mechanism Design) and **Artificial Intelligence**. My work focuses on building computational systems that solve complex problems in finance and economics, moving beyond traditional econometrics to apply modern engineering principles.
 
 - **Currently working on**: Foundational Computer Science (Distributed Systems, Parallel Programming)
-- **Currently studying**: Master of Computer Science at **UIUC**
+- **Currently studying**: Master of Computer Science at UIUC
 - **Interests**: Causal Inference, Algorithmic Game Theory, Multi-Agent Reinforcement Learning (MARL)
 
 ---
