@@ -35,7 +35,7 @@ I engineer **autonomous economic agents**. My work bridges the gap between **Eco
 
 ---
 
-"The overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies." — *Abbé Faria, The Count of Monte Cristo*
+*"The overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies." — Abbé Faria, The Count of Monte Cristo*
 
 
 
