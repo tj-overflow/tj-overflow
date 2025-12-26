@@ -36,7 +36,9 @@ I engineer **autonomous economic agents**. My work bridges the gap between **Eco
 * **Research Fellow**, Samsung Global Research (2016 - 2020)
 
 ---
-**Contact**: taejun.oh5@google.com
+**Contact**
+* taejun.oh5@google.com
+* https://medium.com/@taejun.oh5  (Mediumn blog on the intersection of Game theory and AI)
 
 ---
 
