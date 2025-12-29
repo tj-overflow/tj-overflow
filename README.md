@@ -18,7 +18,7 @@ I engineer **autonomous economic agents**. My work bridges the gap between **Eco
 ---
 
 ### Projects
-* **Procurement Sentinel (In Development)**: An autonomous agent for SaaS renewal negotiations. Utilizing a hybrid architecture of **LLM-based term extraction** (NLP) and **Monte Carlo Tree Search** (MCTS) to approximate optimal strategies within an **incomplete information game** framework.
+* **Procurement Sentinel (In Development)**: An autonomous agent for SaaS renewal negotiations. Utilizing a hybrid architecture of LLM-based term extraction (NLP), Monte Carlo Tree Search (MCTS), and Bayesian updating to approximate optimal strategies for bargaining under incomplete information.
 
 ---
 
