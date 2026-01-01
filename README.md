@@ -38,7 +38,7 @@ I engineer **autonomous economic agents**. My work bridges the gap between **Eco
 ---
 **Contact**
 * taejun.oh5@google.com
-* https://www.linkedin.com/in/taejun-oh-657233121 (Linkedin)
+* https://www.linkedin.com/in/taejun-oh (Linkedin)
 * https://medium.com/@taejun.oh5  (Mediumn blog on the intersection of Game theory and AI)
 
 ---
