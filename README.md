@@ -4,7 +4,7 @@
 
 I engineer **autonomous economic agents**. My work bridges the gap between **Economic Theory** (Game Theory, Mechanism Design) and **Artificial Intelligence**, building systems that reason, negotiate, and optimize under incomplete information.
 
-- **Current Focus**: Developing **AlphaNegotiator (Procurement Sentinel)** — A decision engine for autonomous B2B negotiation.
+- **Current Focus**: Developing a decision engine for autonomous B2B negotiation.
 - **Core Research**: Opponent Modeling, Multi-Agent Reinforcement Learning (MARL), and Search Algorithms (MCTS) applied to Economic Games.
 - **Academic Focus**: Applied Machine Learning, NLP, and Advanced Bayesian Modeling (Spring 2026).
 
@@ -18,7 +18,7 @@ I engineer **autonomous economic agents**. My work bridges the gap between **Eco
 ---
 
 ### Projects
-* **Procurement Sentinel (In Development)**: An autonomous agent for SaaS renewal negotiations. Utilizing a hybrid architecture of LLM-based term extraction (NLP), Monte Carlo Tree Search (MCTS), and Bayesian updating to approximate optimal strategies for bargaining under incomplete information.
+* **Procurement Sentinel (In Development)**: An autonomous agent for SaaS renewal negotiations. Utilizing a hybrid architecture of LLM-based term extraction (NLP) and Bayesian updating to approximate optimal strategies for bargaining under incomplete information.
 
 ---
 
