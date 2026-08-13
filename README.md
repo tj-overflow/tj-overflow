@@ -3,7 +3,7 @@
 **Computational Economist · AI Systems Architect**
 
 I design autonomous economic agents that reason, negotiate, and optimize under
-incomplete information — work at the intersection of economic theory
+incomplete information, work at the intersection of economic theory
 (game theory, mechanism design) and modern AI.
 
 - **Current focus:** A decision engine for autonomous B2B negotiation.
@@ -20,7 +20,7 @@ incomplete information — work at the intersection of economic theory
 
 ## Projects
 
-- **Procurement Sentinel** *(in development)* — An autonomous agent for B2B SaaS
+- **Procurement Sentinel** *(in development)* An autonomous agent for B2B SaaS
   contract negotiation. It treats bargaining as sequential decision-making under
   incomplete information: inferring the counterparty's behavior from observed offers
   and planning multi-issue proposals that pursue efficient agreements without knowing
@@ -29,16 +29,16 @@ incomplete information — work at the intersection of economic theory
 
 ## Education
 
-- **M.C.S., Computer Science** — University of Illinois Urbana-Champaign (2026–present)
-- **Ph.D., Economics** — University of Michigan, Ann Arbor (2016)
+- **M.C.S., Computer Science** University of Illinois Urbana-Champaign (2026–present)
+- **Ph.D., Economics** University of Michigan, Ann Arbor (2016)
   - Specialization: Game Theory & Mechanism Design
-- **B.S. Mathematics & B.A. Economics** — Yonsei University (2008)
+- **B.S. Mathematics & B.A. Economics** Yonsei University (2008)
 
 ## Professional Experience
 
-- **Senior Research Manager** — Woori Financial Research Institute (2022–present)
-- **Co-CEO** — Blue Mountain Inc. (2020–2022)
-- **Research Fellow** — Samsung Global Research (2016–2020)
+- **Senior Research Manager** Woori Financial Research Institute (2022–present)
+- **Co-CEO** Blue Mountain Inc. (2020–2022)
+- **Research Fellow** Samsung Global Research (2016–2020)
 
 ## Contact
 
