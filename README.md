@@ -20,7 +20,6 @@ and business decisions.
   and decision-making under incomplete information
 - **Technical work:** Implementing and evaluating autonomous agents, simulation,
   probabilistic modeling, and search/planning methods
-- **M.C.S. focus:** Artificial intelligence, machine learning, systems, and security
 
 ## Technical Toolkit
 
