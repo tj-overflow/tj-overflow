@@ -10,14 +10,16 @@ Financial Research Institute. I am completing a part-time M.C.S. at UIUC and bui
 
 ## Work
 
-- **Discerno.** A negotiation agent that infers the opponent's bargaining behaviour and priorities,
+- **Discerno.** A negotiation agent that infers the opponent's bargaining behavior and priorities,
   probes to test its belief, and plans offers several moves ahead. Every offer, acceptance and
   walk-away is chosen by an explicit model of the opponent, so each decision can be traced to the
   agent's beliefs and replayed. A language model is used only in an optional plain-English mode to
   read and word messages, and fixed checks keep a misread or manipulative message from steering a decision.
-- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses** (sole-author working
-  paper, in preparation). After Akka's 2022 move to a restrictive licence, few dependent projects
-  adopted the new versions; most stayed on the last open version.
+- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses.** Sole-author working
+  paper; submitted to *Information Economics and Policy*; under review
+  ([data and code](https://github.com/TJ-overflow/relicensing-dependents)). After Akka's 2022 move
+  to a restrictive license, few dependent projects adopted the new versions; most stayed on the
+  last open version.
 - **Correlated Cheap Talk and Correlated Communication Equilibrium.** Developed from my Ph.D.
   dissertation; submitted to *Games and Economic Behavior*; under review.
 
