@@ -1,73 +1,50 @@
-# Hi, I'm Taejun Oh
+# Taejun Oh
 
-**Economist · AI Strategy · Decision Systems**
+**Economist and strategist · AI decision systems · Economics of technology**
 
-I am a Ph.D. economist and senior research professional working at the intersection
-of economics, strategy, and artificial intelligence.
+I hold a Ph.D. in economics from the University of Michigan (game theory and mechanism design)
+and have about ten years of research and strategy work: U.S. economy and industry research and
+internal strategy consulting at Samsung Global Research, co-founding an AR/VR startup, and global
+and Korean economics research and internal strategy consulting for Woori Financial Group at Woori
+Financial Research Institute. I am completing a part-time M.C.S. at UIUC and build AI decision systems.
 
-My background is in game theory, mechanism design, corporate research, finance,
-and strategic analysis. More recently, I have added implementation-level computer
-science and AI capability through the UIUC M.C.S. and independent work on
-autonomous decision systems.
+## Work
 
-I am particularly interested in how AI systems can reason and act under strategic
-uncertainty, and how technical capabilities translate into economic, organizational,
-and business decisions.
+- **Discerno.** A negotiation agent that infers the opponent's bargaining behaviour and priorities,
+  probes to test its belief, and plans offers several moves ahead. Every offer, acceptance and
+  walk-away is chosen by an explicit model of the opponent, so each decision can be traced to the
+  agent's beliefs and replayed. A language model is used only in an optional plain-English mode to
+  read and word messages, and fixed checks keep a misread or manipulative message from steering a decision.
+- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses** (sole-author working
+  paper, in preparation). After Akka's 2022 move to a restrictive licence, few dependent projects
+  adopted the new versions; most stayed on the last open version.
+- **Correlated Cheap Talk and Correlated Communication Equilibrium.** Developed from my Ph.D.
+  dissertation; submitted to *Games and Economic Behavior*; under review.
 
-- **Current interests:** Agentic AI, multi-agent systems, strategic decision-making,
-  AI economics, and technology strategy
-- **Research foundations:** Game theory, mechanism design, Bayesian reasoning,
-  and decision-making under incomplete information
-- **Technical work:** Implementing and evaluating autonomous agents, simulation,
-  probabilistic modeling, and search/planning methods
+## Toolkit
 
-## Technical Toolkit
-
-- **Languages:** Python, C++
-- **AI & modeling:** PyTorch, Bayesian inference, probabilistic modeling,
-  multi-agent simulation
-- **Scientific computing:** NumPy, SciPy
-- **Tools:** Git, LaTeX
-
-## Current Technical Work
-
-I independently develop and study AI decision systems for strategic environments.
-My recent work combines opponent modeling, sequential decision-making,
-multi-agent simulation, and bounded planning under uncertainty.
-
-The broader objective is to understand when additional information and more
-complex reasoning actually improve downstream decisions, rather than treating
-model accuracy or system complexity as ends in themselves.
+- **Python:** PyTorch, NumPy, SciPy, pandas, statsmodels
+- **Data:** SQL (Google BigQuery), R
+- **Other:** Git, LaTeX
 
 ## Education
 
-- **M.C.S., Computer Science**  
-  University of Illinois Urbana-Champaign, 2026–present
+- **M.C.S., Computer Science**, University of Illinois Urbana-Champaign, 2026 to 2027 (expected)
+- **Ph.D., Economics**, University of Michigan, 2016 (game theory and mechanism design)
+- **B.S. Mathematics and B.A. Economics**, Yonsei University, 2008
 
-- **Ph.D., Economics**  
-  University of Michigan, Ann Arbor, 2016  
-  Specialization: Game Theory & Mechanism Design
+## Experience
 
-- **B.S. Mathematics & B.A. Economics**  
-  Yonsei University, 2008
-
-## Professional Experience
-
-- **Senior Research Manager**  
-  Woori Financial Research Institute, 2022–present
-
-- **Co-CEO**  
-  Blue Mountain Inc., 2020–2022
-
-- **Research Fellow**  
-  Samsung Global Research, 2016–2020
+- **Senior Research Manager**, Woori Financial Research Institute, 2022 to present
+- **Co-founder and Co-CEO**, Blue Mountain Inc., 2021 to 2022
+- **Research Fellow**, Samsung Global Research, 2016 to 2020
 
 ## Contact
 
 - taejun.oh5@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/taejun-oh)
-- [Medium](https://medium.com/@taejun.oh5) — writing on economics, game theory,
-  AI, and strategic decision-making
+- [Medium](https://medium.com/@taejun.oh5): writing on economics, game theory and AI
 
-> *"The overflow of my brain would probably, in a state of freedom, have
-> evaporated in a thousand follies."* — Abbé Faria, *The Count of Monte Cristo*
+> *"The overflow of my brain would probably, in a state of freedom, have evaporated in a
+> thousand follies."*
+> Abbé Faria, *The Count of Monte Cristo*
