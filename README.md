@@ -1,27 +1,32 @@
 # Taejun Oh
 
-**Economist and strategist · AI decision systems · Economics of technology**
+**Economist and strategy adviser · Strategic decisions in technology and AI**
 
-I hold a Ph.D. in economics from the University of Michigan (game theory and mechanism design)
-and have about ten years of research and strategy work: U.S. economy and industry research and
-internal strategy consulting at Samsung Global Research, co-founding an AR/VR startup, and global
-and Korean economics research and internal strategy consulting for Woori Financial Group at Woori
-Financial Research Institute. I am completing a part-time M.C.S. at UIUC and build AI decision systems.
+I help senior decision-makers think through strategic choices: how a counterparty, a competitor
+or a market is likely to respond, and what that means for the decision in front of them. I trained
+in game theory (Ph.D. in economics, University of Michigan) and have spent about ten years as an
+economist and strategy adviser, writing research and strategy for senior management at Woori
+Financial Research Institute and Samsung Global Research.
+
+As AI began to change how organizations analyze and decide, I wanted to work with it directly
+rather than only write about it, so I am completing a Master of Computer Science at UIUC (June 2027).
+The work below joins the two around one question: how parties with different interests and private
+information reach decisions. It takes that question three ways: theory, evidence and a working system.
 
 ## Work
 
-- **[Discerno](https://github.com/tj-overflow/discerno_public).** A negotiation agent that infers the opponent's bargaining behavior and priorities,
-  probes to test its belief, and plans offers several moves ahead. Every offer, acceptance and
-  walk-away is chosen by an explicit model of the opponent, so each decision can be traced to the
-  agent's beliefs and replayed. A language model is used only in an optional plain-English mode to
-  read and word messages, and fixed checks keep a misread or manipulative message from steering a decision.
-- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses.** Sole-author working
-  paper; submitted to *Information Economics and Policy*; under review
+- **Correlated Cheap Talk and Correlated Communication Equilibrium** (theory). Strategic
+  communication between parties with conflicting interests. Developed from my Ph.D. dissertation;
+  submitted to *Games and Economic Behavior*; under review.
+- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses** (evidence). Sole-author
+  working paper; submitted to *Information Economics and Policy*; under review
   ([data and code](https://github.com/TJ-overflow/relicensing-dependents)). After Akka's 2022 move
   to a restrictive license, few dependent projects adopted the new versions; most stayed on the
   last open version.
-- **Correlated Cheap Talk and Correlated Communication Equilibrium.** Developed from my Ph.D.
-  dissertation; submitted to *Games and Economic Behavior*; under review.
+- **[Discerno](https://github.com/tj-overflow/discerno_public)** (a working system). An AI agent
+  that negotiates a multi-term business contract: it infers the other side's bargaining style and
+  priorities from its offers and plans three moves ahead. Its decisions use no language model; an
+  optional plain-English mode uses a local model only to read and word messages.
 
 ## Toolkit
 
