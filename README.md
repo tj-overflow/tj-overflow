@@ -10,7 +10,7 @@ Financial Research Institute. I am completing a part-time M.C.S. at UIUC and bui
 
 ## Work
 
-- **Discerno.** A negotiation agent that infers the opponent's bargaining behavior and priorities,
+- **[Discerno](https://github.com/tj-overflow/discerno_public).** A negotiation agent that infers the opponent's bargaining behavior and priorities,
   probes to test its belief, and plans offers several moves ahead. Every offer, acceptance and
   walk-away is chosen by an explicit model of the opponent, so each decision can be traced to the
   agent's beliefs and replayed. A language model is used only in an optional plain-English mode to
