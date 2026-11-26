@@ -4,21 +4,18 @@
 
 I help senior decision-makers think through strategic choices: how a counterparty, a competitor
 or a market is likely to respond, and what that means for the decision in front of them. I trained
-in game theory (Ph.D. in economics, University of Michigan) and have spent about ten years as an
-economist and strategy adviser, writing research and strategy for senior management at Woori
-Financial Research Institute and Samsung Global Research.
+in game theory (Ph.D. in economics, University of Michigan) and have since spent about ten years in
+research and advisory work, mostly for senior management at Woori Financial Group and Samsung.
 
-As AI began to change how organizations analyze and decide, I wanted to work with it directly
-rather than only write about it, so I am completing a Master of Computer Science at UIUC (June 2027).
-The work below joins the two around one question: how parties with different interests and private
-information reach decisions. It takes that question three ways: theory, evidence and a working system.
+In late 2024 I decided to study computer science: I believed AI would change how organizations
+analyze and decide, and I wanted to play an active role in it. I am now completing a Master of
+Computer Science at UIUC (June 2027). Computer science extends my work as an economist and adviser
+rather than replacing it. The work below uses both around one question: how parties with different
+interests and private information reach decisions.
 
 ## Work
 
-- **Correlated Cheap Talk and Correlated Communication Equilibrium** (theory). Strategic
-  communication between parties with conflicting interests. Developed from my Ph.D. dissertation;
-  submitted to *Games and Economic Behavior*; under review.
-- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses** (evidence). Sole-author
+- **How Dependent Libraries Respond When an Open-Source Supplier Relicenses** (empirical). Sole-author
   working paper; submitted to *Information Economics and Policy*; under review
   ([data and code](https://github.com/TJ-overflow/relicensing-dependents)). After Akka's 2022 move
   to a restrictive license, few dependent projects adopted the new versions; most stayed on the
